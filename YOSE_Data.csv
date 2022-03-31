@@ -1,0 +1,8 @@
+﻿Category,Parent ,Value,Color 
+Origin,,,
+Mammal,Origin ,87,Yellow 
+Birds,Origin ,270,Red 
+Reptiles,Origin ,22,Green
+Fish,Origin ,10,Blue 
+Vascular Plants,Origin ,1683,Orange
+Amphibians,Origin ,14,Brown
